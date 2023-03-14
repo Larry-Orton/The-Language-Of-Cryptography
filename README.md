@@ -61,7 +61,7 @@ least be able to identify them in the software or hardware you purchase.</P>
 
 <h2>Table Of Contents</h2>
 <ul>
-  <li><a href="https://github.com/Larry-Orton/The-Language-Of-Cryptography/blob/main/Chapter%201%20The%20Language%20of%20Cryptography/Chapter%20One.md">Chapter One</a></li>
+  <li><a href="https://github.com/Larry-Orton/The-Language-Of-Cryptography/blob/main/Chapter%201%20The%20Language%20of%20Cryptography/Chapter%20One.md">Chapter One: The Language of Cryptography</a></li>
   
 </ul>
 
