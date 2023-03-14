@@ -50,25 +50,19 @@ to gain knowledge of even more complex systems. You will learn how to use each c
 through puzzles and code-breaking sessions.</p>
 
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<h1>Table Of Contents</h1>
+<ul>
+  <li><a href="https://github.com/Larry-Orton/The-Language-Of-Cryptography/blob/main/Chapter%201%20The%20Language%20of%20Cryptography/Chapter%20One.md">Chapter One</a></li>
+  
+</ul>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-
-
----
-
-<br>
-
-<ul>
-  <li><a href="#">Link 1</a></li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
 Credit: [Larry Orton](https://github.com/Larry-Orton)
 
 Last Edited on: 03/13/2023
