@@ -43,18 +43,23 @@ Version 1.0 </h5>
 <br>
 
 <h3>Introduction</h3>
-<p>This book is a beginner’s guide to the world of cryptography and will provide 
-basic understanding of the science. You will learn the terminology, processes, 
-and the mechanics of cryptography, and how to put those skills and understanding together 
-to gain knowledge of even more complex systems. You will learn how to use each cryptosystem by experimenting with some of the leading examples 
-through puzzles and code-breaking sessions.</p>
+
+
 
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-<h1>Table Of Contents</h1>
+<h1 align="center">Your Plan</h1>
+
+<p align="center">When reading through the following chapters, take the time to observe the world 
+and the technologies around to see if you can identify places where cryptographic 
+technology may be used. This is a great exercise because it will get you in the right 
+mindset to understand and possibly implement the technologies later, or at the very 
+least be able to identify them in the software or hardware you purchase.</P>
+
+<h2>Table Of Contents</h2>
 <ul>
   <li><a href="https://github.com/Larry-Orton/The-Language-Of-Cryptography/blob/main/Chapter%201%20The%20Language%20of%20Cryptography/Chapter%20One.md">Chapter One</a></li>
   
@@ -63,6 +68,8 @@ through puzzles and code-breaking sessions.</p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+<br>
+
 Credit: [Larry Orton](https://github.com/Larry-Orton)
 
 Last Edited on: 03/13/2023
