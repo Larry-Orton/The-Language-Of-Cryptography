@@ -1,4 +1,4 @@
-<h1> Chapter One </h1>
+<h1 style="text-align:center;"> Chapter One </h1>
 
 <br>
 
