@@ -37,3 +37,16 @@ authenticate devices as well as protect data and other items. Additionally, many
 financial transactions are now being completed via mobile devices such as tablets and 
 smartphones. This makes cryptographic operations an integral daily activity for a vast 
 number of customers.</p>
+
+<h1 align="center">Fundamentals of Cryptography</h1>
+
+<h3>Cryptography</h3>
+<p>The word <b>cryptography</b> comes to 
+us by way of the Latin language and 
+translates into English as “secret writing."</p>
+
+<h3>Encryption:</h3><p>is a process that converts unencrypted information from a clear and open 
+state to a secure and relatively protected state intended to keep the information safe from 
+prying eyes.</p>
+
+
